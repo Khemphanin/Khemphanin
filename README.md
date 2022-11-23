@@ -1,7 +1,8 @@
 ## **Hi I'm Khemphanin Kitisak** 👋
 ### *I'm 20 Now I'm interested about computer language* 🔭
+### *I'm a RMUTL student* 👯
+### This is my Contact
 
-![Nin]([image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2r5w7t4w7y3q8r5_dank-meme-dankememe-dankmemes-yeet-dog-watermelon-doggo%2F&psig=AOvVaw0h7WsSWPSgBkJKltIM94KO&ust=1669313620916000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCf1PzzxPsCFQAAAAAdAAAAABAJ))
 
 <!--
 **Khemphanin/Khemphanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
