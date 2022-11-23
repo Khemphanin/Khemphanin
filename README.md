@@ -1,7 +1,7 @@
 ## **Hi I'm Khemphanin Kitisak** 👋
 ### *I'm 20 Now I'm interested about computer language* 🔭
 
-![alt text]([pngfind.com-doge-meme-png-6349126.png](https://www.pngfind.com/pngs/m/634-6349126_shibenation-doge-meme-freetoedit-prague-astronomical-clock-hd.png))
+![Nin]([image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2r5w7t4w7y3q8r5_dank-meme-dankememe-dankmemes-yeet-dog-watermelon-doggo%2F&psig=AOvVaw0h7WsSWPSgBkJKltIM94KO&ust=1669313620916000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCf1PzzxPsCFQAAAAAdAAAAABAJ))
 
 <!--
 **Khemphanin/Khemphanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
